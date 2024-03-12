@@ -1,0 +1,5 @@
+customer_id,customer_name
+1,Lokesh
+2,Somesh
+3,Smith
+4,Rock
